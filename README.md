@@ -22,6 +22,10 @@ A lightweight, front‑end‑only clone of Instagram's landing page built with *
 
 ---
 
+## 🌐 Demo & Repository
+- 🔗 Live Demo: https://deeps0408.github.io/instagram-clone/
+- 🔗 GitHub Repository: https://github.com/deeps0408/instagram-clone
+
 ## 🚀 Getting Started
 1. **Clone or download** this repository.
 2. Open a terminal and navigate to the project folder:
