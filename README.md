@@ -41,9 +41,7 @@ A lightweight, front‑end‑only clone of Instagram's landing page built with *
 ---
 
 ## 📸 Screenshots
-> *(Screenshots are stored in the agent’s artifact directory. Replace the paths with local copies if you move the project.)*
-
-![Landing Page](file:///C:/Users/HP/.gemini/antigravity/brain/fd8b6260-d189-4aea-bd8d-5ace34c14b8b/cafe_flatlay_1780508035370.png)
+assets/images/Screenshot 2026-06-04 200814.png
 
 ---
 
