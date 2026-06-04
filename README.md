@@ -67,4 +67,3 @@ This code is provided for educational purposes and is free to use, modify, and d
 
 ---
 
-*Created with ❤️ by Antigravity AI*
