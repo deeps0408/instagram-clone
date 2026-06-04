@@ -41,7 +41,8 @@ A lightweight, front‑end‑only clone of Instagram's landing page built with *
 ---
 
 ## 📸 Screenshots
-./assets/images/Screenshot 2026-06-04 200814.png
+<img width="1894" height="960" alt="Screenshot 2026-06-04 200814" src="https://github.com/user-attachments/assets/8d9d1dc5-e802-44c0-bd69-76d468434938" />
+
 
 ---
 
